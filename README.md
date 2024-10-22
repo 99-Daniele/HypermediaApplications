@@ -27,3 +27,9 @@ npm run dev
 ## Authors
 
 [Daniele Cicala](https://github.com/99-Daniele)
+
+[Daniele Sinigaglia](https://github.com/DanoSSS)
+
+[Simon Hallak](https://github.com/simha97)
+
+[Xiyuan Hu](https://github.com/XiyuanHu1021)
