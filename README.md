@@ -23,3 +23,7 @@ to run the project
 run the command 
 
 npm run dev
+
+## Authors
+
+[Daniele Cicala](https://github.com/99-Daniele)
